@@ -1,3 +1,3 @@
 # Project-Proposal
 
-Authorss: Thomason Wu
+Authors: Thomason Wu
